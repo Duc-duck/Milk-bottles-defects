@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.3.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>dev_set_line_width (3)</l>
+<l>Row:=0</l>
+<l>Column:=0</l>
+<l>Phi:=0</l>
+<l>Length1:=500</l>
+<l>Length2:=500</l>
+<l>radius:=1</l>
+<l>thresh:=0</l>
+<l>folder:=''</l>
+<l>level_ok:=10000</l>
+<l>min_ra:=70</l>
+<l>min_round:=0.89</l>
+<l>max_round:=1</l>
+<l>max_ra:=85</l>
+<l>read_image (Image, 'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/Halcon demo/Image__2023-06-19__14-05-32.bmp')</l>
+<c></c>
+<c>*threshold</c>
+<l>Threshold (Image, Regions, Row, Column, Phi, Length1, Length2, thresh, Value)</l>
+<c></c>
+<c>*rectangularity</c>
+<l>Rectangularity (Image, Region1, Row, Column, Phi, Length1, Length2, thresh, value)</l>
+<c></c>
+<c>*water level</c>
+<l>Water_level (Image, Region1, Row, Column, Length1, Length2, thresh, Level)</l>
+<c></c>
+<l>Wrinkles (Image, SelectedRegions, min_ra, min_round, max_round, max_ra, Row, Column, Length1, Length2, wrinkled)</l>
+<c></c>
+<l>save_image (Image, folder)</l>
+<c></c>
+<l>rotate_img (Image, RotImage, Phi)</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+<procedure name="Threshold">
+<interface>
+<io>
+<par name="Image" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="Regions" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="Row" base_type="ctrl" dimension="0"/>
+<par name="Column" base_type="ctrl" dimension="0"/>
+<par name="Phi" base_type="ctrl" dimension="0"/>
+<par name="Length1" base_type="ctrl" dimension="0"/>
+<par name="Length2" base_type="ctrl" dimension="0"/>
+<par name="thresh" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="value" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>gen_rectangle2 (ROI_0, Row, Column, Phi, Length1, Length2)</l>
+<l>reduce_domain(Image,ROI_0,ImageReduced)</l>
+<l>threshold (ImageReduced, Regions, 0, thresh)</l>
+<l>gen_empty_region (EmptyRegion)</l>
+<l>if(Regions == EmptyRegion)</l>
+<l>    value:=0</l>
+<l>else</l>
+<l>region_features (Regions, 'area', value)</l>
+<l>value := value[0]</l>
+<l>endif</l>
+<c></c>
+<l>return ()</l>
+</body>
+<docu id="Threshold">
+<parameters>
+<parameter id="Column"/>
+<parameter id="Image"/>
+<parameter id="Length1"/>
+<parameter id="Length2"/>
+<parameter id="Phi"/>
+<parameter id="Regions"/>
+<parameter id="Row"/>
+<parameter id="thresh"/>
+<parameter id="value"/>
+</parameters>
+</docu>
+</procedure>
+<procedure name="save_image">
+<interface>
+<io>
+<par name="Image" base_type="iconic" dimension="0"/>
+</io>
+<ic>
+<par name="folder" base_type="ctrl" dimension="0"/>
+</ic>
+</interface>
+<body>
+<l>write_image (Image, 'bmp', 0, folder)</l>
+<l>return ()</l>
+</body>
+<docu id="save_image">
+<parameters>
+<parameter id="Image"/>
+<parameter id="folder"/>
+</parameters>
+</docu>
+</procedure>
+<procedure name="rotate_img">
+<interface>
+<io>
+<par name="Image" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="RotImage" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="Phi" base_type="ctrl" dimension="0"/>
+</ic>
+</interface>
+<body>
+<l>rotate_image(Image,RotImage,Phi,'constant')</l>
+<l>return ()</l>
+</body>
+<docu id="rotate_img">
+<parameters>
+<parameter id="Image"/>
+<parameter id="Phi"/>
+<parameter id="RotImage"/>
+</parameters>
+</docu>
+</procedure>
+<procedure name="Rectangularity">
+<interface>
+<io>
+<par name="Image" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="Region1" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="Row" base_type="ctrl" dimension="0"/>
+<par name="Column" base_type="ctrl" dimension="0"/>
+<par name="Phi" base_type="ctrl" dimension="0"/>
+<par name="Length1" base_type="ctrl" dimension="0"/>
+<par name="Length2" base_type="ctrl" dimension="0"/>
+<par name="thresh" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="value" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>gen_rectangle2 (ROI_0, Row, Column, Phi, Length1, Length2)</l>
+<l>reduce_domain(Image,ROI_0,ImageReduced)</l>
+<l>threshold (ImageReduced, Regions, 0, thresh)</l>
+<l>region_features (Regions, ['row','column','phi','width','height'], Value)</l>
+<l>gen_rectangle2 (Rectangle, Value[0]-Value[4]/2.3, Value[1], 0, Value[3]*1/2, Value[4]/6)</l>
+<l>reduce_domain (ImageReduced, Rectangle, ImageReduced1)</l>
+<l>threshold (ImageReduced1, Region1, 0, thresh)</l>
+<l>gen_empty_region (EmptyRegion)</l>
+<l>if(Region1 == EmptyRegion)</l>
+<l>    value:=0</l>
+<l>else</l>
+<l>region_features (Region1, 'rectangularity', value)</l>
+<l>value := value[0]</l>
+<l>endif</l>
+<l>return ()</l>
+</body>
+<docu id="Rectangularity">
+<parameters>
+<parameter id="Column"/>
+<parameter id="Image"/>
+<parameter id="Length1"/>
+<parameter id="Length2"/>
+<parameter id="Phi"/>
+<parameter id="Region1"/>
+<parameter id="Row"/>
+<parameter id="thresh"/>
+<parameter id="value"/>
+</parameters>
+</docu>
+</procedure>
+<procedure name="Wrinkles">
+<interface>
+<io>
+<par name="Image" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="SelectedRegions" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="min_ra" base_type="ctrl" dimension="0"/>
+<par name="min_round" base_type="ctrl" dimension="0"/>
+<par name="max_round" base_type="ctrl" dimension="0"/>
+<par name="max_ra" base_type="ctrl" dimension="0"/>
+<par name="Row" base_type="ctrl" dimension="0"/>
+<par name="Column" base_type="ctrl" dimension="0"/>
+<par name="Length1" base_type="ctrl" dimension="0"/>
+<par name="Length2" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="Number" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>gen_rectangle2 (ROI_0, Row, Column, rad(90), Length1, Length2)</l>
+<l>reduce_domain(Image, ROI_0, ImageReduced)</l>
+<l>edges_image (ImageReduced, ImaAmp, ImaDir, 'canny', 1, 'nms', min_round, max_round)</l>
+<l>threshold (ImaAmp, Region, 0, 255)</l>
+<l>connection (Region, ConnectedRegions)</l>
+<l>gen_empty_obj (EmptyObject)</l>
+<l>if(ConnectedRegions != EmptyObject)</l>
+<l>select_shape (ConnectedRegions, Regions1, ['roundness','outer_radius'], 'and', [0.8,min_ra], [1,max_ra])</l>
+<l>region_features (Regions1, ['row','column','outer_radius'], Value)</l>
+<l>if(Regions1 != EmptyObject)</l>
+<l>   gen_circle (Circle, Value[0], Value[1], Value[2]*1.5/3)</l>
+<l>   reduce_domain (ImaAmp, Circle, ImageReduced1)</l>
+<l>   threshold (ImageReduced1, Region1, 0, 255)</l>
+<l>*    region_features (Region1, 'area', Value1)</l>
+<l>*    Number:=Value1[0]</l>
+<l>   connection (Region1, connectedRegions)</l>
+<l>   select_shape (connectedRegions, SelectedRegions, ['area','roundness'], 'and', [20,0], [5000,1])</l>
+<l>   count_obj (SelectedRegions, Number) </l>
+<l>else</l>
+<l>    Nubmer:=0</l>
+<l>endif</l>
+<l>else</l>
+<l>    Number:=0</l>
+<l>endif</l>
+<l>return ()</l>
+</body>
+<docu id="Wrinkles">
+<parameters>
+<parameter id="Column"/>
+<parameter id="Image"/>
+<parameter id="Length1"/>
+<parameter id="Length2"/>
+<parameter id="Number"/>
+<parameter id="Row"/>
+<parameter id="SelectedRegions"/>
+<parameter id="max_ra"/>
+<parameter id="max_round"/>
+<parameter id="min_ra"/>
+<parameter id="min_round"/>
+</parameters>
+</docu>
+</procedure>
+<procedure name="Water_level">
+<interface>
+<io>
+<par name="Image" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="Region1" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="Row" base_type="ctrl" dimension="0"/>
+<par name="Column" base_type="ctrl" dimension="0"/>
+<par name="Length1" base_type="ctrl" dimension="0"/>
+<par name="Length2" base_type="ctrl" dimension="0"/>
+<par name="thresh" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="level" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>gen_rectangle2 (ROI_0, Row, Column, rad(90), Length1, Length2)</l>
+<l>reduce_domain (Image, ROI_0, ImageReduced)</l>
+<l>threshold (ImageReduced, Region, 0, 240) </l>
+<l>region_features (Region, 'area', Value)</l>
+<l>gen_empty_region (EmptyRegion)</l>
+<l>    if(Region != EmptyRegion)</l>
+<l>        reduce_domain (ImageReduced, Region, ImageReduced1)</l>
+<l>        auto_threshold (ImageReduced1, Region2, thresh)       </l>
+<l>        if (Region2 != EmptyRegion)</l>
+<l>             region_features (Region2,'row', Value1)</l>
+<l>             select_shape (Region2, Region1, 'row', 'and', max(Value1)-60, max(Value1))</l>
+<l>             region_features (Region1, 'area', Value2)</l>
+<l>             level:= sum(Value2)/Value</l>
+<l>        endif</l>
+<l>    else </l>
+<l>           level:= 2</l>
+<l>    endif   </l>
+<l>return ()</l>
+</body>
+<docu id="Water_level">
+<parameters>
+<parameter id="Column"/>
+<parameter id="Image"/>
+<parameter id="Length1"/>
+<parameter id="Length2"/>
+<parameter id="Region1"/>
+<parameter id="Row"/>
+<parameter id="level"/>
+<parameter id="thresh"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>

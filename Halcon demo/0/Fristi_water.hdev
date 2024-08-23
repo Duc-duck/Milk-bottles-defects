@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.3.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>dev_clear_window ()</l>
+<l>dev_set_line_width(3)</l>
+<l>dev_set_draw ('margin')</l>
+<l>dev_open_window (0, 0, 640, 480, 'black', Window)</l>
+<l>set_display_font (Window, 32, 'mono', 'true', 'false')</l>
+<l>list_files ('C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All/', 'files', Files)</l>
+<l>for I:= 0 to |Files|-1 by 1</l>
+<l>    read_image(Image,Files[I])             </l>
+<l>    gen_rectangle1 (ROI_1, 1048.59, 665.989, 1598.27, 2241.02)</l>
+<l>    reduce_domain (Image, ROI_1, ImageReduced)</l>
+<l>    threshold (ImageReduced, Regions, 19, 79)</l>
+<l>    *threshold (ImageReduced, Regions, 0, 155)</l>
+<l>    *gen_rectangle1 (ROI_0, 1185.8, 665.015, 1285.36, 2233.82)        </l>
+<l>    gen_region_line (ROI_0, 1288.31, 594.364, 1255.12, 2305.35)</l>
+<l>    intersection (Regions, ROI_0, IntersectionRegion)</l>
+<l>    region_features (IntersectionRegion, 'area', Value)</l>
+<l>    if(Value&gt;0)</l>
+<l>        select_shape (IntersectionRegion, SelectedRegions, 'area', 'and', 0, Value[0])</l>
+<l>        disp_message (Window, 'OK', 'window', 22, 22, 'green', 'true')</l>
+<l>    else</l>
+<l>        disp_message (Window, 'NG', 'window', 22, 22, 'red', 'true')</l>
+<l>    endif</l>
+<l>    stop ()</l>
+<l>endfor</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

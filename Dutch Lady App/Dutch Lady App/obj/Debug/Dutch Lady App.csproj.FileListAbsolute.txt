@@ -1,0 +1,21 @@
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App_MarkupCompile.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App_MarkupCompile.lref
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\Debug\Dutch Lady App.exe.config
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\Debug\Dutch Lady App.pdb
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\Debug\halcondotnet.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\Debug\hdevenginedotnet.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\Debug\halcondotnet.xml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\Debug\hdevenginedotnet.xml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.g.resources
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch_Lady_App.Properties.Resources.resources
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.csproj.CopyComplete
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\Debug\Dutch Lady App.pdb

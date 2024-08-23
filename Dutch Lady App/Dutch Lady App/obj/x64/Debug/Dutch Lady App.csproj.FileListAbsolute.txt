@@ -1,0 +1,575 @@
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\halcondotnet.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hdevenginedotnet.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\halcondotnet.xml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hdevenginedotnet.xml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\PROJECT\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\halcondotnet.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hdevenginedotnet.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\halcondotnet.xml
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hdevenginedotnet.xml
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\Dutch Lady\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\halcondotnet.xml
+E:\Dutch Lady\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hdevenginedotnet.xml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\halcondotnet.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hdevenginedotnet.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\halcondotnet.xml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hdevenginedotnet.xml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+C:\Users\Dell\Desktop\Dutch Lady1\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\New folder\Dutch Lady_Fristi\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\PROJECT\Dutch Lady_Fristi_final\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Draw_Rect\DesignerItem.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\Basler.Pylon.xml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\App.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Draw_Rect\DesignerItem.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MainWindow.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Debug\Dutch Lady App.pdb

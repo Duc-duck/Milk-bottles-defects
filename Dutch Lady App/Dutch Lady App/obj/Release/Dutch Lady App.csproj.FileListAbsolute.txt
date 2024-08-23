@@ -1,0 +1,9 @@
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\MainWindow.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\App.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\Release\Dutch Lady App_MarkupCompile.lref

@@ -1,0 +1,205 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(12,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(13,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(23,53): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(23,35): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(50,85): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(50,55): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(76,88): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(76,70): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(77,88): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(77,70): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(94,85): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(94,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(125,50): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(126,51): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(137,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(138,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(154,64): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(154,43): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(161,56): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(161,39): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(168,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(169,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(189,31): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(190,31): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(198,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(199,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(207,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(208,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(216,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(217,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(243,52): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(243,35): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(252,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(252,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(267,21): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(270,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(275,80): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(275,63): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(276,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(307,88): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(321,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(331,88): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(331,71): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(336,76): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(336,59): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(339,84): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(339,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(344,110): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(344,93): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(351,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(355,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\dllmain.cpp(356,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Source_Numpy.cpp
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_Numpy.cpp(12,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Source_OpenCV.cpp
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(47,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(94,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(94,50): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(161,36): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(182,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(215,36): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(216,36): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\MyDll\Source_OpenCV.cpp(303,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\x64\Release\MyDll.lib and object D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\x64\Release\MyDll.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 349 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyDll.vcxproj -> D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\x64\Release\MyDll.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

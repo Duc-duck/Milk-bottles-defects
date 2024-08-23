@@ -1,0 +1,9 @@
+Hàm Rectangularity khai báo input parameter sai thứ tự (thứ tự đúng là x, x1, y, y1)
+
+p1.y trong hàm Rectangularity() rơi vào giá trị âm khi Min_Rect.tl().y = 0
+
+Trong hàm image processing, task_water phần hiển thị khai báo không đúng bộ nhớ hiển thị, khai báo lượng bộ nhớ là img_bgr.size để hiển thị out_img2.size => Sai, dẫn tới memory leak
+
+Không tìm thấy 'Image' trong thư viện System.Drawing => Chuột phải vào nhánh References để chọn 'Add References' và add System.Drawing.dll
+
+Lưu ảnh nhưng bị chậm mất 1 frame => để hàm lưu ra sau hàm hiện thị kèm điều kiện NG

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.3.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>dev_clear_window ()</l>
+<l>dev_set_line_width(3)</l>
+<l>dev_set_draw ('margin')</l>
+<l>list_files ('D:/Desktop/Dutch Lady_Fristi/All1/', 'files', Files)</l>
+<l>*read_image(Image, 'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-06-05__10-07-55.bmp')</l>
+<l>for I := 0 to |Files|-1 by 1</l>
+<l>    read_image(Image,Files[I])</l>
+<l>    rgb1_to_gray (Image, GrayImage)</l>
+<l>    threshold (GrayImage, Region, 0, 200)</l>
+<l>    region_features (Region, ['row','column','phi','width','height'], Value)</l>
+<l>    gen_rectangle2 (Rectangle, Value[0]-Value[4]/2, Value[1], 0, Value[3]*1/2, Value[4]/8)</l>
+<l>    reduce_domain (GrayImage, Rectangle, ImageReduced)</l>
+<l>    threshold (ImageReduced, Region1, 0, 200)</l>
+<l>    region_features (Region1, 'rectangularity', Value1)</l>
+<l>stop()</l>
+<l>endfor</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

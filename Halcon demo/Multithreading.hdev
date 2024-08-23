@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.3.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>dev_set_draw ('margin')</l>
+<l>dev_set_line_width (3)</l>
+<l>read_image(Image1, 'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-06-05__10-07-55.bmp')</l>
+<l>read_image(Image2,'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-06-05__10-10-01.bmp')</l>
+<l>read_image(Image3,'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-06-05__10-46-43.bmp')</l>
+<l>read_image(Image4,'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-06-05__10-47-27.bmp')</l>
+<c></c>
+<l>gen_circle (ROI_1, 213.596, 202.506, 117.906)</l>
+<l>gen_circle (ROI_2, 214.279, 221, 103.763)</l>
+<l>gen_circle (ROI_3, 204.5, 186.992, 139.874)</l>
+<l>gen_circle (ROI_4, 195.31, 219.5, 106.452)</l>
+<c></c>
+<l>reduce_domain (Image1, ROI_1, ImageReduced1)</l>
+<l>reduce_domain (Image2, ROI_2, ImageReduced2)</l>
+<l>reduce_domain (Image3, ROI_3, ImageReduced3)</l>
+<l>reduce_domain (Image4, ROI_4, ImageReduced4)</l>
+<c></c>
+<c></c>
+<l>rgb1_to_gray (ImageReduced1, GrayImage1)</l>
+<l>rgb1_to_gray (ImageReduced2, GrayImage2)</l>
+<l>rgb1_to_gray (ImageReduced3, GrayImage3)</l>
+<l>rgb1_to_gray (ImageReduced4, GrayImage4)</l>
+<c></c>
+<l>* threshold (GrayImage1, Regions1, 230, 255)</l>
+<l>* threshold (GrayImage2, Regions2, 230, 255)</l>
+<l>* threshold (GrayImage3, Regions3, 230, 255)</l>
+<l>* threshold (GrayImage4, Regions4, 230, 255)</l>
+<c></c>
+<l>threshold (GrayImage1, Regions1, 120, 190)</l>
+<l>threshold (GrayImage2, Regions2, 12, 230)</l>
+<l>threshold (GrayImage3, Regions3, 120, 190)</l>
+<l>threshold (GrayImage4, Regions4, 120, 190)</l>
+<l>dict := 'C:/Users/Dell/Desktop/9a2cc4fe3642e81cb153.jpg'</l>
+<l>dict1:='C:/Users/Dell/Desktop/PROJECT/Dutch Lady/NG/Image__2023-04-08__11-29-23.bmp'</l>
+<l>dict2:='C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-05-12__16-35-20.bmp'</l>
+<l>nap_mop (Value)</l>
+<c></c>
+<l>nap_OK (Value)</l>
+<c>    </c>
+<l>nuoc_OK (Value)</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+<procedure name="nap_mop">
+<interface>
+<oc>
+<par name="Value" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>read_image(image, 'C:/Users/Dell/Desktop/9a2cc4fe3642e81cb153.jpg')</l>
+<l>rgb1_to_gray (image, GrayImage)</l>
+<l>threshold (GrayImage, Regions, 218, 255)</l>
+<l>region_features (Regions, 'area', Value)</l>
+<l>return ()</l>
+</body>
+<docu id="nap_mop">
+<parameters>
+<parameter id="Value"/>
+</parameters>
+</docu>
+</procedure>
+<procedure name="nap_OK">
+<interface>
+<oc>
+<par name="Value" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>read_image (Image, 'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/NG/Image__2023-04-08__11-29-23.bmp')    </l>
+<l>gen_rectangle1 (ROI_0, 770.231, 341.461, 891.606, 2170.65)</l>
+<l>reduce_domain(Image,ROI_0,ImageReduced)</l>
+<l>threshold (ImageReduced, Regions, 0, 240)</l>
+<l>connection (Regions, ConnectedRegions)</l>
+<l>reduce_domain(ImageReduced,ConnectedRegions,ImageReduced1)</l>
+<l>region_features (ConnectedRegions, 'area', Value)</l>
+<l>return ()</l>
+</body>
+<docu id="nap_OK">
+<parameters>
+<parameter id="Value"/>
+</parameters>
+</docu>
+</procedure>
+<procedure name="nuoc_OK">
+<interface>
+<oc>
+<par name="Value" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>read_image(Image,'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-05-12__16-35-20.bmp')                </l>
+<l>gen_rectangle1 (ROI_1, 1284.05, 296.945, 1769.55, 2235.4)</l>
+<l>reduce_domain (Image, ROI_1, ImageReduced)</l>
+<l>threshold (ImageReduced, Regions, 19, 79)         </l>
+<l>gen_region_line (ROI_0, 1587.49, 319.203, 1579.4, 2257.66)</l>
+<l>intersection (Regions, ROI_0, IntersectionRegion)</l>
+<l>region_features (IntersectionRegion, 'area', Value)</l>
+<l>return ()</l>
+</body>
+<docu id="nuoc_OK">
+<parameters>
+<parameter id="Value"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>

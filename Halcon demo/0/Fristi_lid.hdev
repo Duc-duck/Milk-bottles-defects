@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.3.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>dev_clear_window ()</l>
+<l>dev_set_line_width(3)</l>
+<l>dev_set_draw ('margin')</l>
+<l>dev_open_window (0, 0, 640, 480, 'black', Window)</l>
+<l>set_display_font (Window, 32, 'mono', 'true', 'false')</l>
+<l>list_files ('D:/User/PROJECT/Dutch Lady/All1/', 'files', Files)</l>
+<l>*read_image (Image, 'C:/Users/Dell/Desktop/Dutch Lady/NG/Image__2023-04-08__11-29-23.bmp')</l>
+<l>for I := 0 to |Files|-1 by 1</l>
+<l>    read_image (Image, Files[I])</l>
+<l>    gen_rectangle1 (ROI_0, 666.493, 1034.61, 780.19, 1624.41)</l>
+<l>    reduce_domain(Image,ROI_0,ImageReduced)</l>
+<l>    threshold (ImageReduced, Regions, 0, 240)</l>
+<l>    connection (Regions, ConnectedRegions)</l>
+<l>    reduce_domain(ImageReduced,ConnectedRegions,ImageReduced1)</l>
+<l>    region_features (ConnectedRegions, 'area', Value)</l>
+<l>    if (Value &lt; 20000)</l>
+<l>        select_shape (ConnectedRegions, SelectedRegions, 'area', 'and', 0, Value[0])</l>
+<l>        disp_message (Window, 'NG', 'window', 22, 22, 'red', 'true')</l>
+<l>    else</l>
+<l>        disp_message (Window, 'OK', 'window', 22, 22, 'green', 'true')</l>
+<l>    endif </l>
+<l>    stop ()</l>
+<l>endfor</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

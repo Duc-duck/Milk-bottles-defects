@@ -1,0 +1,13 @@
+Chú ý mỗi khi chuyển đổi trạng thái giữa debug và release, ví dụ khi sửa chương trình ở chế độ debug nhưng khi build lại quên đưa project về chế độ debug, chương trình sẽ ngộ nhận rằng code gốc chưa có sự thay đổi nào cả
+
+Khi build nhưng gặp lỗi nullable type nghĩa là chương trình dùng C# có version nhỏ hơn 8.0, để fix:
+- chuột phải tên project -> properties -> bulid -> chọn Debug hoặc Release -> OK
+- Thoát solution, ra folder tìm file đuôi .csproj ( có định dạng "USER file") và file có định dạng "C# Project file" 
+- Mở 2 file này bằng notepad và sửa dòng code <LangVersion>7.3</LangVersion> thành
+    <LangVersion>8.0</LangVersion>
+    <Nullable>enable</Nullable>
+- Reload lại hoặc mở lại Solution
+
+Khi chuyển camera sang chế độ trigger, camera sẽ đợi frame start (sau khi bấm oneshot) hoặc đợi aquistion start (sau khi bấm continuous shot) tùy theo thông số được cài đặt, sau khi có các tín hiệu này camera sẽ đợi cho source (line1) được trigger thì nó mới chụp hình.
+
+"@CameraDevice/TriggerMode" cannot be written when camera stream_graber is Grabbing

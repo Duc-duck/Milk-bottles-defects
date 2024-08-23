@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.3.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>dev_clear_window ()</l>
+<l>dev_set_line_width(3)</l>
+<l>dev_set_draw ('fill')</l>
+<l>list_files ('D:/Desktop/Dutch Lady_Fristi_final/All1/', 'files', Files)</l>
+<l>*read_image(Image, 'C:/Users/Dell/Desktop/PROJECT/Dutch Lady/All1/Image__2023-06-05__10-07-55.bmp')</l>
+<l>for I := 0 to |Files|-1 by 1</l>
+<l>    read_image(Image,Files[I])</l>
+<l>    rgb1_to_gray (Image, GrayImage)</l>
+<l>    threshold (GrayImage, Region, 25, 255)</l>
+<l>    region_features (Region, ['row','column','outer_radius'], Value)</l>
+<l>    gen_circle (Circle, Value[0], Value[1], Value[2]*0.68)</l>
+<l>    reduce_domain (GrayImage, Circle, ImageReduced)</l>
+<l>    local_threshold (ImageReduced, Region1, 'adapted_std_deviation', 'dark', 'scale', 0.1)</l>
+<l>    connection (Region1, ConnectedRegions)</l>
+<l>    select_shape (ConnectedRegions, SelectedRegions, ['roundness','area'], 'and', [0.43, 100], [0.8, 40000])</l>
+<l>    gen_empty_obj(EmptyRegion)</l>
+<l>    if (SelectedRegions==EmptyRegion)</l>
+<l>       wrinkled:=0  </l>
+<l>    else</l>
+<l>       union1(SelectedRegions,MergeRegion)</l>
+<l>       region_features (MergeRegion, 'area', Value1)</l>
+<l>       if(Value1 &lt; 1000)</l>
+<l>           wrinkled:=0</l>
+<l>       else</l>
+<l>           wrinkled:=1</l>
+<l>       endif</l>
+<l>    endif</l>
+<l>stop()</l>
+<l>endfor</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

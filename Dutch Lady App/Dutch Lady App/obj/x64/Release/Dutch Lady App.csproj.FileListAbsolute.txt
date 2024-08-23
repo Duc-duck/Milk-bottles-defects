@@ -1,0 +1,261 @@
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.xml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Draw_Rect\DesignerItem.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.pdb
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe.config
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.pdb
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.xml
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.AssemblyReference.cache
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.g.cs
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.g.cs
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.g.cs
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.g.cs
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.cache
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.lref
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.baml
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Draw_Rect\DesignerItem.baml
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.baml
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.baml
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.baml
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.g.resources
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch_Lady_App.Properties.Resources.resources
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.GenerateResource.cache
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CoreCompileInputs.cache
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch La.D5EA067A.Up2Date
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.exe
+E:\Desktop\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.pdb
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe.config
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.pdb
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.xml
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.AssemblyReference.cache
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.g.cs
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.g.cs
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.g.cs
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.g.cs
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.cache
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.lref
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.baml
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Draw_Rect\DesignerItem.baml
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.baml
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.baml
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.baml
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.g.resources
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch_Lady_App.Properties.Resources.resources
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.GenerateResource.cache
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CoreCompileInputs.cache
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CopyComplete
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.exe
+F:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.pdb
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe.config
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.pdb
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.xml
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.g.cs
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.g.cs
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.g.cs
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.g.cs
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.cache
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.lref
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.baml
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Draw_Rect\DesignerItem.baml
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.baml
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.baml
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.baml
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.g.resources
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch_Lady_App.Properties.Resources.resources
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.GenerateResource.cache
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch La.D5EA067A.Up2Date
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.exe
+D:\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.pdb
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe.config
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.pdb
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.xml
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.AssemblyReference.cache
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.g.cs
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.g.cs
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.g.cs
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.g.cs
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.cache
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.lref
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.baml
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Draw_Rect\DesignerItem.baml
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.baml
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.baml
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.baml
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.g.resources
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch_Lady_App.Properties.Resources.resources
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.GenerateResource.cache
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CoreCompileInputs.cache
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch La.D5EA067A.Up2Date
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.exe
+C:\Users\AVN\Downloads\Dutch Lady_Fristi_final_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe.config
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Dutch Lady App.pdb
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Xceed.Wpf.Toolkit.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\Basler.Pylon.xml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\bin\x64\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.AssemblyReference.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App_MarkupCompile.lref
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\App.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Draw_Rect\DesignerItem.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MainWindow.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl1.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\MyUserControl\UserControl2.baml
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.g.resources
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch_Lady_App.Properties.Resources.resources
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.GenerateResource.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CoreCompileInputs.cache
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.csproj.CopyComplete
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.exe
+D:\Desktop\Dutch Lady_Fristi_Cpp\Dutch Lady App\Dutch Lady App\obj\x64\Release\Dutch Lady App.pdb
